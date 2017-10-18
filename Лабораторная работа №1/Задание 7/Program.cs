@@ -12,7 +12,9 @@ namespace Задание_7
         {
             String a;
             a = Console.ReadLine();
-            Console.WriteLine();
+            double A;
+            A = double.Parse(a);
+            Console.WriteLine("{0:F4}", A);
         }
     }
 }

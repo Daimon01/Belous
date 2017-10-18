@@ -1,0 +1,6 @@
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Задание 9\bin\Debug\Задание 9.exe.config
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Задание 9\bin\Debug\Задание 9.exe
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Задание 9\bin\Debug\Задание 9.pdb
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Задание 9\obj\Debug\Задание 9.csproj.CoreCompileInputs.cache
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Задание 9\obj\Debug\Задание 9.exe
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Задание 9\obj\Debug\Задание 9.pdb

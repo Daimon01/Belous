@@ -4,3 +4,4 @@ C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Зад�
 C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Задание 7\bin\Debug\Задание 7.pdb
 C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Задание 7\obj\Debug\Задание 7.exe
 C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Задание 7\obj\Debug\Задание 7.pdb
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №1\Задание 7\obj\Debug\Задание 7.csprojResolveAssemblyReference.cache
