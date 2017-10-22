@@ -16,10 +16,21 @@ namespace Задание_6
             double a, b;
             a = double.Parse(c);
             b = double.Parse(h);
-            if (a > 0&&b > 0)
+            if (a > 0)
             {
-                a = a * b / 2;
-                Console.WriteLine("")
+                if (b > 0)
+                {
+                    a = a * b / 2;
+                    Console.WriteLine("{0:F2}", a);
+                }
+                else
+                {
+                    Console.WriteLine("Значение height должнобыть положительным");
+                }                
+            }
+            else
+            {
+                Console.WriteLine("Значение base должнобыть положитенльным");
             }
         }
     }

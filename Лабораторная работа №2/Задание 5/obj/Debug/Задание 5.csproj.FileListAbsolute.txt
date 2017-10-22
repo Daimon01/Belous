@@ -4,3 +4,10 @@ C:\Users\pro-4\Desktop\Belous\Лабораторная работа №2\Зад�
 C:\Users\pro-4\Desktop\Belous\Лабораторная работа №2\Задание 5\obj\Debug\Задание 5.csproj.CoreCompileInputs.cache
 C:\Users\pro-4\Desktop\Belous\Лабораторная работа №2\Задание 5\obj\Debug\Задание 5.exe
 C:\Users\pro-4\Desktop\Belous\Лабораторная работа №2\Задание 5\obj\Debug\Задание 5.pdb
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 5\bin\Debug\Задание 5.exe.config
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 5\bin\Debug\Задание 5.exe
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 5\bin\Debug\Задание 5.pdb
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 5\obj\Debug\Задание 5.csprojResolveAssemblyReference.cache
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 5\obj\Debug\Задание 5.csproj.CoreCompileInputs.cache
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 5\obj\Debug\Задание 5.exe
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 5\obj\Debug\Задание 5.pdb

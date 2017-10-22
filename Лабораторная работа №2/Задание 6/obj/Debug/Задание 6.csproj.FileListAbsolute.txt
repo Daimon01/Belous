@@ -1,0 +1,6 @@
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 6\bin\Debug\Задание 6.exe.config
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 6\bin\Debug\Задание 6.exe
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 6\bin\Debug\Задание 6.pdb
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 6\obj\Debug\Задание 6.csproj.CoreCompileInputs.cache
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 6\obj\Debug\Задание 6.exe
+C:\Users\пы\Desktop\Belous\Лабораторная работа №2\Задание 6\obj\Debug\Задание 6.pdb
