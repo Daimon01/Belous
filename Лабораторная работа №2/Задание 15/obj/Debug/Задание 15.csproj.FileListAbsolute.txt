@@ -1,0 +1,6 @@
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №2\Задание 15\bin\Debug\Задание 15.exe.config
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №2\Задание 15\bin\Debug\Задание 15.exe
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №2\Задание 15\bin\Debug\Задание 15.pdb
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №2\Задание 15\obj\Debug\Задание 15.csproj.CoreCompileInputs.cache
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №2\Задание 15\obj\Debug\Задание 15.exe
+C:\Users\pro-4\Desktop\Belous\Лабораторная работа №2\Задание 15\obj\Debug\Задание 15.pdb
