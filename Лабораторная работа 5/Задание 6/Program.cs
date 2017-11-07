@@ -19,7 +19,7 @@ namespace Задание_6
             {
                 if (ms > 0)
                 {
-                    a = ms/1000 * 3600;
+                    a = ms / 1000 * 3600;
                     if (kmh > a)
                     {
                         Console.WriteLine("Скорость {0:F2} м/с меньше чем {1:F2} км/ч", ms, kmh);
