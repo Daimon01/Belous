@@ -19,7 +19,7 @@ namespace Задание_27
                 {
                     Console.WriteLine(a + "'ый");
                 }
-                if (a % 10 == 2 || a % 10 == 6 || a % 10 == 7 || a % 10 == 8 || a == 0)
+                if (a % 10 == 2 || a % 10 == 6 || a % 10 == 7 || a % 10 == 8 || a == 0 || a == 40)
                 {
                     Console.WriteLine(a + "'ой");
                 }
