@@ -22,6 +22,7 @@ namespace Задание_34
             if (a < 0 || b < 0)
             {
                 Console.WriteLine("Значения должны быть положительными");
+                return;
             }
             for (int i = 0; i < a; i++)
             {
