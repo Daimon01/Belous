@@ -10,7 +10,7 @@ namespace Задание_5
     {
         static void Main(string[] args)
         {
-            int p, q;
+            int p, q, c = 0;
             string a;
             Console.Write("Введите первый индекс: ");
             p = int.Parse(Console.ReadLine());
@@ -18,7 +18,7 @@ namespace Задание_5
             q = int.Parse(Console.ReadLine());
             Console.Write("Введите массив через пробел: ");
             a = Console.ReadLine();
-            string[] arr = a.Split(' ');
+            int[] arr = a.Split(' ').Select(x => int.Parse(x)).ToArray();
             if (p < 0 || p >= arr.Length)
             {
                 Console.WriteLine("Число P должно быть в интервале [0, размер массива)");
@@ -33,15 +33,19 @@ namespace Задание_5
             {
                 if (i == p)
                 {
-                    Console.Write(arr[q] + " ");
+                    c = arr[i];
+                    arr[i] = arr[q];
                     continue;
                 }
                 if (i == q)
                 {
-                    Console.Write(arr[p] + " ");
+                    arr[i] = c;
                     continue;
                 }
-                    Console.Write(arr[i] + " ");
+            }
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write(arr[i] + " ");
             }
         }
     }

@@ -19,6 +19,7 @@ namespace Задание_15
                 Console.WriteLine(a);
                 return;
             }
+
             int[] arr = b.Split(' ').Select(x => int.Parse(x)).ToArray();
             for (int i = 0; i < arr.Length; i++)
             {

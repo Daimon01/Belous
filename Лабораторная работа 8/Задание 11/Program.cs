@@ -38,23 +38,13 @@ namespace Задание_11
                 Console.Write(left[i]);
                 for (int k = 0; k < top.Length; k++)
                 {
-                    if (left[i] == top[k] && k == top.Length - 1)
-                    {
-                        Console.Write("+|\n");
-                        continue;
-                    }
                     if (left[i] == top[k])
                     {
                         Console.Write("+");
-                        continue;
                     }
                     Console.Write(" ");
-                    if (k == top.Length - 1)
-                    {
-                        Console.Write(" |\n");
-                        continue;
-                    }
                 }
+                Console.Write("|\n");
             }
             Console.Write(" ");
             for (int n = 0; n < top.Length; n++)

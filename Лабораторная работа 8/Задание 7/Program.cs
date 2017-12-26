@@ -10,7 +10,7 @@ namespace Задание_7
     {
         static void Main(string[] args)
         {
-            int s, c = 0;
+            int s, c = 0, k = 0;
             string a;
             Console.Write("Введите число: ");
             s = int.Parse(Console.ReadLine());
@@ -29,13 +29,20 @@ namespace Задание_7
                     c = 1;
                 }
             }
-            for (int i = arr.Length-c; i < arr.Length; i++)
+            string[] arr2 = new string[arr.Length];
+            for (int i = arr.Length - c; i < arr.Length; i++)
             {
-                Console.Write(arr[i] + " ");
+                arr2[k] = arr[i];
+                k++;
             }
-            for (int i = 0; i < arr.Length-c; i++)
+            for (int i = 0; i < arr.Length - c; i++)
             {
-                Console.Write(arr[i] + " ");
+                arr2[k] = arr[i];
+                k++;
+            }
+            for (int i = 0; i < arr2.Length; i++)
+            {
+                Console.Write(arr2[i] + " ");
             }
         }
     }
