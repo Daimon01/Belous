@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Задание_18
+namespace Задание_19
 {
     class Program
     {
@@ -23,7 +23,14 @@ namespace Задание_18
                     c = arr[i + 1];
                 }
             }
-            Console.WriteLine(c);
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i] = arr[i] - c;
+            }
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write(arr[i] + " ");
+            }
         }
     }
 }
