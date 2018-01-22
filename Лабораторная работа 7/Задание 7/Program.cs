@@ -13,7 +13,15 @@ namespace Задание_7
             string a;
             Console.Write("Введите штрих код: ");
             a = Console.ReadLine();
-            Console.Write("Код страны: " + a[0] + a[1]);
+            if (a.Length != 13)
+            {
+                Console.WriteLine("некорректная длина штрих кода!");
+                return;
+            }
+            Console.Write("Код страны: " + a[0] + a[1] + "\n" +
+                "Код изготовителя: " + a[3] + a[4] + a[5]+"\n" +
+                "Код товара: " + a[7] + a[8] + a[9] + a[10]+"\n" +
+                "Контрольное число: " + a[12]+"\n");
 
         }
     }
