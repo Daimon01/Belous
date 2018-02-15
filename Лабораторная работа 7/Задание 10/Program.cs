@@ -10,16 +10,37 @@ namespace Задание_10
     {
         static void Main(string[] args)
         {
-            string a = "abcdacadbacdaabaadc", b;
-            Console.Write("Введите 2 символа: ");
-            b = Console.ReadLine();
-            if(b.Length <2 || b.Length > 2)
+            string Q = "abcdacadbacdaabaadc";
+
+            Console.Write(" введите данные ");
+            string a = Console.ReadLine();
+            string n, m;
+            int i = 0, x = 0, b = 0, s = 0;
+            s = a.Length;
+
+            if (s != 2)
             {
-                Console.WriteLine("Вводимая строка должна содержать ровно 2 сивола");
-                return;
+                Console.Write("Вводимая строка должна содержать ровно 2 символа ");
             }
-            int c = b.IndexOf(a);
-            a[c] = " ";
+
+            while (i < 19)
+            {
+                x = Q.IndexOf(a, b);
+                if (b == x)
+                {
+
+                    Console.Write(" ");
+                }
+                else
+                {
+                    n = Q.Substring(x, b);
+                    Console.Write(n);
+                }
+                i = i + 1;
+                b = b + 1;
+            }
+
+
         }
     }
 }
